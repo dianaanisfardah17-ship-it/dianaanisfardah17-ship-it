@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,45:7b2cbf,100:ff7eb6&height=230&section=header&text=DIANA%20ANISFARDAH&fontSize=48&fontColor=ffffff&fontAlignY=38&stroke=ff7eb6&strokeWidth=1&animation=fadeIn&desc=Informatics%20Student%20%C2%B7%20Web%20and%20Android%20Developer&descSize=18&descAlignY=60" width="100%" alt="Header" />
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=FF7EB6&center=true&vCenter=true&width=760&height=50&lines=HALLO%2C+SAYA+DIANA+ANISFARDAH;MAHASISWA+TEKNIK+INFORMATIKA;WEB+AND+ANDROID+DEVELOPER;BUILDING+THINGS%2C+ONE+COMMIT+AT+A+TIME" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=FF7EB6&center=true&vCenter=true&width=760&height=50&lines=HALLO%2C+SAYA+DIANA+ANIS FARDAH;MAHASISWA+TEKNIK+INFORMATIKA;WEB+AND+ANDROID+DEVELOPER;BUILDING+THINGS%2C+ONE+COMMIT+AT+A+TIME" alt="Typing" />
 
 <br/>
 
