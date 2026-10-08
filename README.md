@@ -94,8 +94,6 @@ $ git commit -m "learning, exploring, and building 🌱"
 [![Email](https://img.shields.io/badge/Email-FF7EB6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e)](mailto:dianaanisfardah17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e)](https://github.com/dianaanisfardah17-ship-it)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=FF7EB6&center=true&vCenter=true&width=520&height=30&lines=Thanks+for+visiting+my+profile+%F0%9F%92%9C;Feel+free+to+collaborate!" alt="Footer text" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb6,55:7b2cbf,100:1a0b2e&height=110&section=footer" width="100%" alt="Footer" />
+<img src="https://raw.githubusercontent.com/dianaanisfardah17-ship-it/dianaanisfardah17-ship-it/main/footer.svg" width="100%" alt="Thanks for visiting my profile" />
 
 </div>
