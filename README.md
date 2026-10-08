@@ -17,7 +17,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=C77DFF&width=320&height=36&repeat=false&lines=%3E_+ABOUT+ME" alt="About" />
 
 ```yaml
-## 🌷 About Me
 
 Hi! I'm **Diana Anis Fardah**, an Informatics Engineering student at **Universitas Muhammadiyah Sukabumi**.
 
