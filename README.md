@@ -16,9 +16,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=C77DFF&width=320&height=36&repeat=false&lines=%3E_+ABOUT+ME" alt="About" />
 
-```yaml
-
-Hi! I'm **Diana Anis Fardah**, an Informatics Engineering student at **Universitas Muhammadiyah Sukabumi**.
+Hi! I'm Diana Anis Fardah, an Informatics Engineering student at **Universitas Muhammadiyah Sukabumi**.
 
 I'm interested in **Web Development, Data Analytics, Artificial Intelligence, and Software Engineering**.
 I enjoy exploring how technology can be used to build useful applications and turn data into meaningful information.
@@ -29,7 +27,6 @@ I believe that every project is an opportunity to learn something new, improve m
 
 🌱 **Currently learning, exploring, and building.**  
 💻 **Turning curiosity into projects, one step at a time.**
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=FF7EB6&width=360&height=36&repeat=false&lines=%3E_+TECH+STACK" alt="Tech Stack" />
 
