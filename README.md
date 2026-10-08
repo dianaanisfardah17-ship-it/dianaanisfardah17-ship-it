@@ -20,9 +20,12 @@
 
 Hi! I'm **Diana Anis Fardah**, an Informatics Engineering student at **Universitas Muhammadiyah Sukabumi**.
 
-I'm interested in **Web Development, Data Analytics, Artificial Intelligence, and Software Engineering**. I enjoy exploring how technology can be used to build useful applications and turn data into meaningful information.
+I'm interested in **Web Development, Data Analytics, Artificial Intelligence, and Software Engineering**.
+I enjoy exploring how technology can be used to build useful applications and turn data into meaningful information.
 
-I'm still in the process of learning and developing my skills through coursework, personal projects, and different experiences. I believe that every project is an opportunity to learn something new, improve my skills, and grow as an Informatics student.
+I'm still in the process of learning and developing my skills through coursework, personal projects, and different experiences.
+
+I believe that every project is an opportunity to learn something new, improve my skills, and grow as an Informatics student.
 
 🌱 **Currently learning, exploring, and building.**  
 💻 **Turning curiosity into projects, one step at a time.**
