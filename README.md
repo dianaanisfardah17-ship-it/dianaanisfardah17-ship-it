@@ -1,20 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,45:7b2cbf,100:ff7eb6&height=230&section=header&text=DIANA%20ANIS%20FARDAH&fontSize=48&fontColor=ffffff&fontAlignY=38&stroke=ff7eb6&strokeWidth=1&animation=fadeIn&desc=Informatics%20Student%20%C2%B7%20Web%20and%20Android%20Developer&descSize=18&descAlignY=60" width="100%" alt="Header" />
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1000&color=FF7EB6&center=true&vCenter=true&width=760&height=50&lines=HALLO%2C+SAYA+DIANA+ANIS+FARDAH;MAHASISWA+TEKNIK+INFORMATIKA;WEB+AND+ANDROID+DEVELOPER;BUILDING+THINGS%2C+ONE+COMMIT+AT+A+TIME" alt="Typing" />
+<img src="https://raw.githubusercontent.com/dianaanisfardah17-ship-it/dianaanisfardah17-ship-it/main/banner.svg" width="100%" alt="Diana Anis Fardah - Informatics Engineering Student" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FF7EB6&center=true&vCenter=true&width=700&height=45&lines=Informatics+Engineering+Student+%F0%9F%8C%B8;Web+Development+%E2%80%A2+Data+Analytics;Artificial+Intelligence+%E2%80%A2+Software+Engineering;Turning+curiosity+into+projects+%E2%9C%A8" alt="Typing" />
 
 <br/>
 
-![Informatics](https://img.shields.io/badge/TEKNIK-INFORMATIKA-C77DFF?style=for-the-badge&labelColor=1a0b2e)
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATION-FF7EB6?style=for-the-badge&labelColor=1a0b2e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diana_Anis_Fardah-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e)](https://www.linkedin.com/in/diana-anis-fardah-ba6115330)
+[![Email](https://img.shields.io/badge/Email-dianaanisfardah17@gmail.com-FF7EB6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e)](mailto:dianaanisfardah17@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-dianaanisfardah17--ship--it-FF7EB6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e)](https://github.com/dianaanisfardah17-ship-it)
-
-![Views](https://komarev.com/ghpvc/?username=dianaanisfardah17-ship-it&style=for-the-badge&color=C77DFF&labelColor=1a0b2e&label=VISITORS)
+![Views](https://komarev.com/ghpvc/?username=dianaanisfardah17-ship-it&style=flat-square&color=C77DFF&labelColor=1a0b2e&label=VISITORS)
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=C77DFF&width=320&height=36&repeat=false&lines=%3E_+ABOUT+ME" alt="About" />
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=24&duration=2500&pause=600&color=C77DFF&center=true&vCenter=true&width=420&height=44&repeat=false&lines=%E2%9D%AF+ABOUT+ME" alt="About Me" />
+</div>
+
+<table>
+<tr>
+<td>
 
 Hi! I'm Diana Anis Fardah, an Informatics Engineering student at **Universitas Muhammadiyah Sukabumi**.
 
@@ -28,15 +35,37 @@ I believe that every project is an opportunity to learn something new, improve m
 🌱 **Currently learning, exploring, and building.**  
 💻 **Turning curiosity into projects, one step at a time.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=FF7EB6&width=360&height=36&repeat=false&lines=%3E_+TECH+STACK" alt="Tech Stack" />
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,kotlin,androidstudio,git,github,vscode&perline=10&theme=dark)
+![Web](https://img.shields.io/badge/WEB-DEVELOPMENT-C77DFF?style=for-the-badge&labelColor=1a0b2e)
+![Data](https://img.shields.io/badge/DATA-ANALYTICS-FF7EB6?style=for-the-badge&labelColor=1a0b2e)
+![AI](https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-C77DFF?style=for-the-badge&labelColor=1a0b2e)
+![SE](https://img.shields.io/badge/SOFTWARE-ENGINEERING-FF7EB6?style=for-the-badge&labelColor=1a0b2e)
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=C77DFF&width=340&height=36&repeat=false&lines=%3E_+PROJECTS" alt="Projects" />
+```bash
+$ git commit -m "learning, exploring, and building 🌱"
+[main] one step at a time ✨
+```
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=24&duration=2500&pause=600&color=FF7EB6&center=true&vCenter=true&width=420&height=44&repeat=false&lines=%E2%9D%AF+TECH+STACK" alt="Tech Stack" />
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,kotlin,androidstudio,git,github,vscode&perline=10&theme=dark)
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=24&duration=2500&pause=600&color=C77DFF&center=true&vCenter=true&width=420&height=44&repeat=false&lines=%E2%9D%AF+PROJECTS" alt="Projects" />
+</div>
 
 | Proyek | Deskripsi | Stack |
 |:--|:--|:--|
@@ -47,19 +76,26 @@ I believe that every project is an opportunity to learn something new, improve m
 | [**Tugas Intent & Dialog**](https://github.com/dianaanisfardah17-ship-it/Tugas_Intent_Dialog) | Latihan Intent dan Dialog pada Android | `Kotlin` |
 | [**Web Dasar Diana**](https://github.com/dianaanisfardah17-ship-it/web-dasar-diana) | Latihan dasar-dasar pemrograman web | `PHP` |
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=600&color=FF7EB6&width=340&height=36&repeat=false&lines=%3E_+GITHUB+STATS" alt="Stats" />
+<br/>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=24&duration=2500&pause=600&color=FF7EB6&center=true&vCenter=true&width=420&height=44&repeat=false&lines=%E2%9D%AF+GITHUB+STATS" alt="Stats" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=dianaanisfardah17-ship-it&show_icons=true&theme=transparent&title_color=FF7EB6&icon_color=C77DFF&text_color=8d8d8d&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaanisfardah17-ship-it&layout=compact&theme=transparent&title_color=FF7EB6&text_color=8d8d8d&hide_border=true" />
-
 </div>
 
+<br/>
+
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=24&duration=2500&pause=600&color=C77DFF&center=true&vCenter=true&width=420&height=44&repeat=false&lines=%E2%9D%AF+LET'S+CONNECT" alt="Connect" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=3000&pause=1500&color=FF7EB6&center=true&vCenter=true&width=520&height=30&lines=THANKS+FOR+VISITING+MY+PROFILE;FEEL+FREE+TO+COLLABORATE" alt="Footer text" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0b2e)](https://www.linkedin.com/in/diana-anis-fardah-ba6115330)
+[![Email](https://img.shields.io/badge/Email-FF7EB6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e)](mailto:dianaanisfardah17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e)](https://github.com/dianaanisfardah17-ship-it)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb6,55:7b2cbf,100:1a0b2e&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=FF7EB6&center=true&vCenter=true&width=520&height=30&lines=Thanks+for+visiting+my+profile+%F0%9F%92%9C;Feel+free+to+collaborate!" alt="Footer text" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb6,55:7b2cbf,100:1a0b2e&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
